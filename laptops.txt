@@ -1,0 +1,20 @@
+8,1024,Ubuntu,Silver
+8,768,Windows 10,White
+32,768,macOS,Blue
+16,256,Windows 11,Black
+16,768,Windows 11,Red
+24,256,Windows 11,Black
+8,512,Ubuntu,Red
+24,256,Ubuntu,Red
+8,1024,Windows 11,Silver
+24,768,macOS,Blue
+8,512,Windows 10,Black
+24,256,Windows 11,Silver
+16,512,macOS,White
+8,1280,macOS,White
+32,768,Windows 11,Blue
+32,1024,Windows 11,Red
+16,1280,Windows 11,Silver
+24,256,macOS,Blue
+24,256,Windows 10,Blue
+32,512,Windows 10,Red
